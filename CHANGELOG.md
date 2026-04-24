@@ -42,3 +42,4 @@ Initial public release accompanying the submission of the manuscript to
   trajectory- and event-level results on the included Dataset 2 CSV.
 - `reproducibility_materials/`: original MATLAB Live Script (`.mlx`)
   sources for all four scripts above.
+
