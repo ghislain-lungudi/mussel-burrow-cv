@@ -13,7 +13,7 @@ This repository accompanies the manuscript:
 [![License: MIT](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](LICENSE)
 [![Data License: CC BY 4.0](https://img.shields.io/badge/Data%20License-CC%20BY%204.0-lightgrey.svg)](LICENSE-DATA)
 <!-- After first Zenodo release, replace the placeholder below with the real DOI badge -->
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19741091.svg)](https://doi.org/10.5281/zenodo.19741091)
 
 ---
 
@@ -215,7 +215,7 @@ paper and this software release:
   title   = {mussel-burrow-cv: computer vision framework for freshwater mussel burrowing},
   year    = {2026},
   version = {v1.0.0},
-  doi     = {10.5281/zenodo.XXXXXXX},
+  doi     = {10.5281/zenodo.19741091},
   url     = {https://github.com/ghislain-lungudi/mussel-burrow-cv}
 }
 ```
