@@ -5,7 +5,7 @@ version: "1.0.0"
 date-released: "2026-04-24"
 license: MIT
 repository-code: "https://github.com/ghislain-lungudi/mussel-burrow-cv"
-doi: "10.5281/zenodo.19741091"
+doi: "10.5281/zenodo.19741089"
 authors:
   - family-names: Lungudi
     given-names: Ghislain O.

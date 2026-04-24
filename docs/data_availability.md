@@ -16,7 +16,7 @@ in the GitHub repository
 
 and are permanently archived on Zenodo with DOI
 
-    10.5281/zenodo.19741091
+    10.5281/zenodo.19741089
 
 (both links will be finalized at acceptance). The repository also contains
 the written annotation guide used to construct the manual reference
