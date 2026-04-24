@@ -1,0 +1,62 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mat
+!data/**/*.mat          # keep any shipped .mat reference files (e.g., bed_line.mat templates)
+slprj/
+octave-workspace
+
+# Compiled / intermediate
+*.o
+*.obj
+*.pdb
+*.exp
+*.lib
+
+# Image stacks — never commit raw imagery
+*.tif
+*.tiff
+*.TIF
+*.TIFF
+*.png
+*.PNG
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+# (if you ever need to ship a specific demo image, force-add it: git add -f)
+
+# Video
+*.mp4
+*.avi
+*.mov
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# Python (for any Zenodo-related or helper scripts)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Paper build artifacts (if you later add a LaTeX source)
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+*.toc
+
+# Large data kept outside the repo
+/data/raw_images/
+/data/dataset1_full/
+/data/dataset2_full/
+/data/dataset3_full/

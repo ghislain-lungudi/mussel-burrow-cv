@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the associated paper."
+title: "mussel-burrow-cv: a computer vision framework for quantifying freshwater mussel burrowing"
+version: "1.0.0"
+date-released: "2026-04-24"
+license: MIT
+repository-code: "https://github.com/ghislain-lungudi/mussel-burrow-cv"
+doi: "10.5281/zenodo.XXXXXXX"
+authors:
+  - family-names: Lungudi
+    given-names: Ghislain O.
+    email: ghislainlungudi@gmail.com
+    affiliation: "Department of Civil Engineering, University of Missouri–Kansas City"
+    orcid: "https://orcid.org/0000-0002-1121-6275"
+  - family-names: Wyssmann
+    given-names: Micah
+    affiliation: "Department of Civil Engineering, University of Missouri–Kansas City"
+  - family-names: Sansom
+    given-names: Brandon
+    affiliation: "Department of Civil and Environmental Engineering, University of Missouri"
+  - family-names: McMurray
+    given-names: Steve
+    affiliation: "Missouri Department of Conservation"
+  - family-names: Wszola
+    given-names: Lyndsie
+    affiliation: "Missouri Department of Conservation"
+keywords:
+  - computer vision
+  - freshwater mussels
+  - burrowing behavior
+  - ecological informatics
+  - hydraulic flume
+  - image analysis
+preferred-citation:
+  type: article
+  title: "A computer vision framework for quantifying freshwater mussel burrowing under hydraulic flume conditions from side-view image sequences"
+  authors:
+    - family-names: Lungudi
+      given-names: Ghislain O.
+    - family-names: Wyssmann
+      given-names: Micah
+    - family-names: Sansom
+      given-names: Brandon
+    - family-names: McMurray
+      given-names: Steve
+    - family-names: Wszola
+      given-names: Lyndsie
+  journal: "Ecological Informatics"
+  year: 2026
+  status: in-review

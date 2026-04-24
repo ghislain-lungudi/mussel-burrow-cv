@@ -1,0 +1,41 @@
+{
+  "title": "mussel-burrow-cv: a computer vision framework for quantifying freshwater mussel burrowing under hydraulic flume conditions from side-view image sequences",
+  "description": "MATLAB source code, validation tables, and annotation guide accompanying the manuscript 'A computer vision framework for quantifying freshwater mussel burrowing under hydraulic flume conditions from side-view image sequences' submitted to Ecological Informatics. Includes the frame-wise shell-top tracker with jump and plateau guards, the multiscale quality-aware burrowing/resurfacing detector, and the frozen auto-tracker CSV for the Dataset 2 adjudicated validation subset used to produce the reported trajectory-level, event-level, and trial-level metrics.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Lungudi, Ghislain O.",
+      "affiliation": "Department of Civil Engineering, University of Missouri-Kansas City",
+      "orcid": "0000-0002-1121-6275"
+    },
+    {
+      "name": "Wyssmann, Micah",
+      "affiliation": "Department of Civil Engineering, University of Missouri-Kansas City"
+    },
+    {
+      "name": "Sansom, Brandon",
+      "affiliation": "Department of Civil and Environmental Engineering, University of Missouri"
+    },
+    {
+      "name": "McMurray, Steve",
+      "affiliation": "Missouri Department of Conservation"
+    },
+    {
+      "name": "Wszola, Lyndsie",
+      "affiliation": "Missouri Department of Conservation"
+    }
+  ],
+  "keywords": [
+    "computer vision",
+    "freshwater mussels",
+    "burrowing behavior",
+    "ecological informatics",
+    "hydraulic flume",
+    "image sequence analysis",
+    "shell-top tracking",
+    "multiscale event detection"
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng"
+}
