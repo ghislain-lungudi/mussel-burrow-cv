@@ -21,9 +21,7 @@ authors:
   - family-names: McMurray
     given-names: Steve
     affiliation: "Missouri Department of Conservation"
-  - family-names: Wszola
-    given-names: Lyndsie
-    affiliation: "Missouri Department of Conservation"
+  
 keywords:
   - computer vision
   - freshwater mussels
@@ -43,8 +41,6 @@ preferred-citation:
       given-names: Brandon
     - family-names: McMurray
       given-names: Steve
-    - family-names: Wszola
-      given-names: Lyndsie
   journal: "Ecological Informatics"
   year: 2026
-  status: in-review
+  
