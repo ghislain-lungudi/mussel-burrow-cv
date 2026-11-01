@@ -5,7 +5,7 @@ hydraulic flume conditions from side-view image sequences.
 
 This repository accompanies the manuscript:
 
-> Lungudi, G. O., Wyssmann, M., Sansom, B., McMurray, S., Wszola, L.
+> Lungudi, G. O., Wyssmann, M., Sansom, B., McMurray, S.
 > *A computer vision framework for quantifying freshwater mussel burrowing under
 > hydraulic flume conditions from side-view image sequences.*
 > Submitted to *Ecological Informatics*.
